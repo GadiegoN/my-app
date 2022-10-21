@@ -1,4 +1,23 @@
-# my-app
+# Aplicação Vue
+
+![preview](./.github/preview.png)
+
+> Busca pelo pokemon
+
+    Projeto construido para trazer os pokemons e suas propriedades.
+
+## Tecnologias utilizadas
+    - VueJS
+    - Vuetifyjs
+    - PokéAPI
+    - Git
+    - Github
+    - Vercel
+
+## Contato
+    ngadiego@gmail.com
+
+# search-pokemon
 
 ## Project setup
 ```
